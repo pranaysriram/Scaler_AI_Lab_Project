@@ -65,10 +65,6 @@ bun run dev
 
 The dev server prints a local URL (usually `http://localhost:8080`). All environment variables for Lovable Cloud are already wired up in `.env`; no manual setup required.
 
-## Deploy
-
-Use Lovable's **Publish** button — the project builds and deploys to a `*.lovable.app` URL with the database and auth already attached. Custom domains are supported.
-
 ## What's intentionally out of scope
 
 - Recording, breakout rooms, in-meeting chat, screen-share streaming, SFU/large meetings.
